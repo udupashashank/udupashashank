@@ -16,3 +16,16 @@
 💡 Interested in **Cloud Computing, Open Source, and Software Development**
 
 🚀 Looking for **Internships, Open Source Collaboration, and AI Projects**
+☕ Java
+🐍 Python
+💻 C
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+⚛️ React
+🟢 Node.js
+🐬 MySQL
+🐙 Git
+☁️ Firebase
+🛰️ QGIS
+🌍 Google Earth Engine
