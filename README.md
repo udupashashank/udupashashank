@@ -29,3 +29,14 @@
 ☁️ Firebase
 🛰️ QGIS
 🌍 Google Earth Engine
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,mysql,react,nodejs,mongodb" />
+</p>
+
+### GIS & Remote Sensing
+- 🛰️ QGIS
+- 🌍 Google Earth Engine
+- 🗺️ Remote Sensing
+- 📡 Satellite Image Processing
