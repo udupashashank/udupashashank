@@ -40,3 +40,16 @@
 - 🌍 Google Earth Engine
 - 🗺️ Remote Sensing
 - 📡 Satellite Image Processing
+## 🚀 Featured Projects
+
+### 🌊 River Path Deviation Prediction
+- Predicts river path changes using satellite imagery.
+- **Tech:** Python, QGIS, Google Earth Engine, Machine Learning.
+
+### 📄 RAG Question Paper Generator
+- Generates question papers using Retrieval-Augmented Generation (RAG).
+- **Tech:** Python, LangChain, FAISS, Groq API.
+
+### 🍽️ Smart Canteen Management System
+- College canteen ordering and management system.
+- **Tech:** HTML, CSS, JavaScript, Firebase.
